@@ -1,0 +1,10 @@
+*.sh text eol=lf
+src/** linguist-detectable
+*.json linguist-detectable=false
+
+*.woff binary
+*.min.js linguist-generated
+src/**/*.ts linguist-detectable
+public/* linguist-vendored
+
+# eof fcd1ed5f
