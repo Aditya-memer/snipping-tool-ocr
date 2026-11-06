@@ -1,0 +1,8 @@
+.env.local
+.next/
+coverage/
+yarn-error.log*
+node_modules/
+.pnpm-store/
+*.log
+npm-debug.log*
